@@ -1,10 +1,10 @@
-## Hi, I’m Thiago Duraes
+## Hi, I’m Thiago Durães
 
 <img height="160em" src="icono.png"/>
 
 A follower of Full-Stack Web Developer Roadmap.
 
-## I'm currently learning
+## I'm currently learning:
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,7 +20,9 @@ A follower of Full-Stack Web Developer Roadmap.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duraesthiago&layout=compact&langs_count=7&theme=onedark"/>
 </div>
  
-<div> 
+#
+
+<div align="center"> 
    <a href="https://instagram.com/duraesthiago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dev.duraes.thiago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/duraesthiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
